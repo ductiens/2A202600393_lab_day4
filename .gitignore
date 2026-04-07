@@ -15,9 +15,6 @@ env/
 # Environment variables
 .env
 
-# Test results
-test_results.md
-
 # IDE
 .vscode/
 .idea/
